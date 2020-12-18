@@ -11,7 +11,6 @@
 
 
 ## التمرين الأول
-<img src="https://user-images.githubusercontent.com/8784343/102672812-f1abaf00-41a2-11eb-96c4-afc48017b25b.gif" width="350px" />
 
 
 1. قم بإضافة TextField يقبل قيمة اسمك. لا تنسى وضع @State لمتغير الاسم
@@ -26,6 +25,9 @@
 من أكواب الماء يومياً
 والله على ما أقول شهيد
 ```
+
+<img src="https://user-images.githubusercontent.com/8784343/102672812-f1abaf00-41a2-11eb-96c4-afc48017b25b.gif" width="350px" />
+
 
 <details>
   <summary>
