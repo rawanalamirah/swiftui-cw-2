@@ -11,7 +11,7 @@
 
 
 ## التمرين الأول
-![Water bottles ](https://user-images.githubusercontent.com/8784343/102672812-f1abaf00-41a2-11eb-96c4-afc48017b25b.gif)
+<img src="https://user-images.githubusercontent.com/8784343/102672812-f1abaf00-41a2-11eb-96c4-afc48017b25b.gif" width="350px" />
 1. قم بإضافة TextField يقبل قيمة اسمك. لا تنسى وضع @State لمتغير الاسم
 2. قم بإضافة Stepper لزيادة عدد بطول الماء التي تريد أن تتعهد عليها.
 3. البرنامج أخيراً سيقوم بطباعة العهدة 
@@ -37,7 +37,7 @@
 </details>
 
 ## التمرين الثاني
-![currency converter](https://user-images.githubusercontent.com/8784343/102673444-333d5980-41a5-11eb-991e-d7b349a169ec.gif)
+<img src="https://user-images.githubusercontent.com/8784343/102673444-333d5980-41a5-11eb-991e-d7b349a169ec.gif" alt="currency-converter-gif" width="350px"/>
 
 1. 
 
