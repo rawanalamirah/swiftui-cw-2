@@ -37,6 +37,8 @@
 </details>
 
 ## التمرين الثاني
+![currency converter](https://user-images.githubusercontent.com/8784343/102673444-333d5980-41a5-11eb-991e-d7b349a169ec.gif)
+
 1. 
 
 
