@@ -3,14 +3,13 @@
 //  SwiftUICW2
 //
 //  Created by Omar Alibrahim on 12/19/20.
-//
-
+//  Copyright: Kuwait Codes 2020 code.kw
 import SwiftUI
 
-struct ContentView: View {
+struct Exercise1: View {
     var body: some View {
         ZStack {
-            Image("bg")
+            Image("charter")
                 .resizable()
                 .aspectRatio(contentMode: .fill)
                 .ignoresSafeArea()
@@ -23,15 +22,14 @@ struct ContentView: View {
 //                ADD THE CODE HERE
                 
                 
-                Spacer()
-                
+                Spacer()        
             }.padding()
         }
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct Exercise1_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        Exercise1()
     }
 }

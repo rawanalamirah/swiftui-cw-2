@@ -3,7 +3,7 @@
 //  SwiftUICW2
 //
 //  Created by Omar Alibrahim on 12/19/20.
-//
+//  Copyright: Kuwait Codes 2020 code.kw
 
 import UIKit
 

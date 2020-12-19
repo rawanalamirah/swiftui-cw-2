@@ -3,8 +3,7 @@
 //  SwiftUICW2
 //
 //  Created by Omar Alibrahim on 12/19/20.
-//
-
+//  Copyright: Kuwait Codes 2020 code.kw
 import UIKit
 import SwiftUI
 
@@ -19,7 +18,13 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
 
         // Create the SwiftUI view that provides the window contents.
-        let contentView = ContentView()
+        let contentView = NavigationView(content: {
+            VStack{
+                NavigationLink("Exercise 1",destination: Exercise1())
+                NavigationLink("Exercise 2",destination: Exercise2())
+                
+            }
+        })
 
         // Use a UIHostingController as window root view controller.
         if let windowScene = scene as? UIWindowScene {
